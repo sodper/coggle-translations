@@ -66,8 +66,8 @@
 """>
 
 /* new frontpage content */
-<index-tagline "A clear way to share complex information.">
-<index-signupnow "Sign Up Now for Free">
+<index-tagline "Ett tydligt sätt att dela komplex information.">
+<index-signupnow "Registrera dig nu utan kostnad">
 
 <index-use-notes """
   <div><img></div>
